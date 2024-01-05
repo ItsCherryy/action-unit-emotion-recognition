@@ -1,6 +1,3 @@
-# action unit emotion recognition
-
-
 # Action Unit and Emotion Recognition
 In this task, students are required to train an end-to-end deep convolutional neural network on a subset of The Extended Cohn-Kanade Dataset (CK+) provided. The dataset consists of 560 labelled images from 123 subjects. The labelled attributes include:
 
