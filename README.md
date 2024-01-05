@@ -22,7 +22,7 @@ The best model had a 87.35% F1 score for HLE and 72.03% for FACS codes.
 </thead>
     
 <tr align="center">
-    <td><img src="COSC2779_A1_Statistics/model10_au_f1.png"></td>
+    <td><img src="COSC2779_A1_Statistics/model_emotion_output_labelled.png"></td>
      <td><img src="COSC2779_A1_Statistics/model10_au_loss.png"></td>
 </tr>
 
