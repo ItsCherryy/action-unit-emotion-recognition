@@ -4,8 +4,9 @@ In this task, students are required to train an end-to-end deep convolutional ne
 - High Level Emotion (HLE): indicating whether the subjects’ emotion is “Positive”, “Negative” or “Surprised”
 - FACS (Facial Action Coding System) codes: Whether the subject did a particular facial action, 1 for yes, 0 for no
 
-According to the dataset, there are a total of 15 FACS codes depicting the subject’s brow, lip, cheek, chin and jaw, mouth and eye movements.
+According to the dataset, there are a total of 15 FACS codes depicting the subject’s brow, lip, cheek, chin and jaw, mouth and eye movements.  
 
+  
 The best model had a 87.35% F1 score for HLE and 72.03% for FACS codes.
 
 <table align="center">
